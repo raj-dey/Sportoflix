@@ -62,7 +62,7 @@ To run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sportoflix.git
+   git clone https://github.com/raj-dey/sportoflix.git
    cd sportoflix
    ```
 
@@ -80,4 +80,4 @@ To run the project locally:
 
 ## 🧑‍💻 Author
 
-**Your Name** – [GitHub Profile](https://github.com/yourusername)
+**Your Name** – [GitHub Profile](https://github.com/raj-dey)
