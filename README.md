@@ -80,4 +80,4 @@ To run the project locally:
 
 ## 🧑‍💻 Author
 
-**Your Name** – [GitHub Profile](https://github.com/raj-dey)
+**RAJ DEY** – [GitHub Profile](https://github.com/raj-dey)
