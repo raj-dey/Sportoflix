@@ -52,7 +52,7 @@ SportoFlix/
 
 ## 📸 Preview
 
-![image alt]([https://github.com/raj-dey/BMI-Calculator/blob/fd449ab4e8dd2e0885c7020b4095bb572536f5e2/images/indeximg.png](https://github.com/raj-dey/Sportoflix/blob/main/images/Sportoflix.jpeg?raw=true))
+![image alt](https://github.com/raj-dey/Sportoflix/blob/main/images/Sportoflix.jpeg?raw=true)
 
 
 ---
